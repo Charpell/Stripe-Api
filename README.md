@@ -2,14 +2,17 @@
 
 A simple Node.js/ Express app that uses the Stripe API to sell an ebook
 
+![alt text]('./public/img/stripe.png')
+
 ### Version
 1.0.0
 
 ## Usage
 
-### Create a config/keys_dev.js file and add....
+### Create account on Stripe 
+Create your account on Stripe to get your publishable key and secret key.
 
-+ Create an account and Stripe to get your publishable key and secret key
+### Create .env file
 + Create a .env file in and insert your api keys
 
 ````
