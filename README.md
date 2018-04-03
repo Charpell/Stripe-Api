@@ -2,7 +2,7 @@
 
 A simple Node.js/ Express app that uses the Stripe API to sell an ebook
 
-![alt text]('./public/img/stripe.png')
+![alt text](https://github.com/Charpell/Stripe-Api/blob/master/public/img/stripe.png)
 
 ### Version
 1.0.0
